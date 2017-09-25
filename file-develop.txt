@@ -1,1 +1,1 @@
-Editing this develop file to induce merge conflict later
+Resolved merge conflict
